@@ -1,0 +1,28 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-deps
+.flutter_export_environment.sh
+.pub-cache/
+build/
+
+# Android
+.android/
+.gradle/
+local.properties
+
+# iOS
+Pods/
+ios/Flutter/Flutter.podspec
+Generated.xcconfig
+Flutter/Flutter.framework
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Misc
+*.log
+*.lock
